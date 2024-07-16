@@ -52,10 +52,8 @@ ___
 ___
 
 <h3>🎖️ &nbsp; My CV :</h3>
-
-<div align="center>
-  <img src=""/>
-</div>
+  
+<img src="https://github.com/radman1007/radman1007/blob/main/CS50Puz.JPEG?raw=true"/>
 
 ___
 
