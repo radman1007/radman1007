@@ -66,8 +66,8 @@ ___
 <h3>📞 &nbsp; Contact Me :</h3>
 
 <p align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/Instagram-@_radman7-e56969?style=flat&logo=instagram"/>
+  <a href="https://www.linkedin.com/in/radman-montazer">
+    <img src="https://img.shields.io/badge/Linkedin-radman-blue?style=flat&logo=linkedin"/>
   </a>
   
   <a href="https://instagram.com/_radman7/">
