@@ -69,7 +69,7 @@ ___
 
 <p align="center">
   <a href="https://www.linkedin.com/in/radman-montazer">
-    <img src="https://github-readme-stats.vercel.app/api?username=radman1007&show_icons=true&theme=transparent"/>
+    <img src="https://img.shields.io/badge/Linkedin-@_radman7-blue?style=flat&logo=linkedin"/>
   </a>
   
   <a href="https://instagram.com/_radman7/">
