@@ -57,8 +57,10 @@ ___
 
 <h3>✅ &nbsp; Github Stats :</h3>
 
-<a href="https://github.com/radman1007">
+<a href="https://github-readme-stats.vercel.app/api?username=radman1007&show_icons=true&theme=radical">
+  
   <img src="https://github-readme-stats.vercel.app/api?username=radman1007&show_icons=true&theme=radical"/>
+  
 </a>
 
 ___
