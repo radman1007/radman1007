@@ -69,7 +69,7 @@ ___
 
 <p align="center">
   <a href="https://www.linkedin.com/in/radman-montazer">
-    <img src="https://img.shields.io/badge/Linkedin-radman-blue?style=flat&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/Linkedin-@radman-blue?style=flat&logo=linkedin"/>
   </a>
   
   <a href="https://instagram.com/_radman7/">
