@@ -51,6 +51,14 @@ ___
 
 ___
 
+<h3>🎖️ &nbsp; My CV :</h3>
+
+<div align="center>
+  <img src=""/>
+</div>
+
+___
+
 <h3>✅ &nbsp; Github Stats :</h3>
 
 <a href="https://github.com/radman1007">
