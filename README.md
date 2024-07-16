@@ -57,9 +57,9 @@ ___
 
 <h3>✅ &nbsp; Github Stats :</h3>
 
-<a href="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent">
+<a href="https://github-readme-stats.vercel.app/api?username=radman1007&show_icons=true&theme=transparent">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=radman1007&show_icons=true&theme=transparent"/>
   
 </a>
 
