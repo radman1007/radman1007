@@ -20,7 +20,7 @@ Backend Developer with over 1 Years of professional experience in Django.
 - 🌍  I'm based in Rasht
 - 🎓  I'm student of SAMPAD
 - 🤝  I'm open to collaborating on Django based projects
-- 🧠  I'm learning ReactJS
+- 🧠  I'm learning AI
 
 ___
 
