@@ -15,7 +15,7 @@ ___
 
 <h3>😎 &nbsp; About Me :</h3>
 
-Backend Developer with over 1 Years of professional experience in Django.
+Backend Developer with over 2 Years of professional experience in Django.
 
 - 🌍  I'm based in Rasht
 - 🎓  I'm student of SAMPAD
@@ -30,7 +30,7 @@ ___
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - 🌐 &nbsp;
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
