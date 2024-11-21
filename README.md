@@ -15,7 +15,7 @@ ___
 
 <h3>😎 &nbsp; About Me :</h3>
 
-Backend Developer with over 2 Years of professional experience in Django.
+Backend Developer with over 3 Years of professional experience in Django.
 
 - 🌍  I'm based in Rasht
 - 🎓  I'm student of SAMPAD
