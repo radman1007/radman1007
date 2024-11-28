@@ -51,11 +51,15 @@ ___
 
 <h3>🎖️ &nbsp; My CV :</h3>
   
-<img src="https://github.com/radman1007/radman1007/blob/main/CS50Puz.JPEG?raw=true"/>
+<div style="display: flex;" align="center">
+  
+  <img src="https://github.com/radman1007/radman1007/blob/main/CS50Puz.JPEG?raw=true" width="600"/>
 
-<img src="https://github.com/radman1007/radman1007/blob/main/IMG_5723.jpg"/>
+  <img src="https://github.com/radman1007/radman1007/blob/main/IMG_5723.jpg" width="600"/>
 
-<img src="https://github.com/radman1007/radman1007/blob/main/IMG_5721.jpg"/>
+  <img src="https://github.com/radman1007/radman1007/blob/main/IMG_5721.jpg" width="600"/>
+  
+</div>
 
 ___
 
