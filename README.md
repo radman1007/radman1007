@@ -50,6 +50,9 @@ ___
 ___
 
 <h3>🎖️ &nbsp; My CV :</h3>
+
+- 🥇  First place in the ACM Programming Contest
+- 🥈  Second place in the province in Kharazmi competitions in the field of Programming
   
 <div style="display: flex;" align="center">
   
