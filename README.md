@@ -51,6 +51,7 @@ ___
 
 <h3>🎖️ &nbsp; My CV :</h3>
 
+- 🥈  Second place in the CS50 Puzzle day group competition in 2024
 - 🥇  First place in the ACM Programming Contest
 - 🥈  Second place in the province in Kharazmi competitions in the field of Programming
   
