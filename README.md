@@ -15,7 +15,7 @@ ___
 
 <h3>😎 &nbsp; About Me :</h3>
 
-Backend Developer with over 4 Years of professional experience in Django.
+FullStack Developer with over 4 Years of professional experience in Django and React.
 
 - 🌍  I'm based in Rasht
 - 🎓  I'm student of SAMPAD
