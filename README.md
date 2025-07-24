@@ -15,7 +15,7 @@ ___
 
 <h3>😎 &nbsp; About Me :</h3>
 
-FullStack Developer with over 4 Years of professional experience in Django, React and Web Scraping.
+FullStack Developer with over 4 Years of professional experience in Django, React and Web Scraping and for 2 Years Im learning Security(🔴 Team).
 
 - 🌍  I'm based in Rasht
 - 🎓  I'm student of SAMPAD
