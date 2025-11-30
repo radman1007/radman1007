@@ -15,12 +15,38 @@ ___
 
 <h3>😎 &nbsp; About Me :</h3>
 
-FullStack Developer with over 4 Years of professional experience in Django, React and Web Scraping and for 2 Years Im learning Security(🔴 Team).
+FullStack Developer with over 5 Years of professional experience in Django, React and Web Scraping and for 2 Years Im learning Security(🔴 Team).
 
 - 🌍  I'm based in Rasht
 - 🎓  I'm student of SAMPAD
 - 🤝  I'm open to collaborating on Django based projects
 - 🧠  I'm learning AI
+
+___
+
+<h3>🌐 &nbsp; My Hosted Projects :</h3>
+
+<p>Here are some of the projects I have developed and deployed on real servers:</p>
+
+<ul>
+  <li>
+    🚀 <strong>Aida Beauty7</strong>
+    <br/>
+    🔗 <a href="https://aida-beauty7.ir/">aida-beuty7.ir</a>
+  </li>
+
+  <li>
+    ⚙️ <strong>Sina Pad</strong>
+    <br/>
+    🔗 <a href="https://sinapad.com/">sinapad.com</a>
+  </li>
+
+  <li>
+    📊 <strong>Gilan Advisor</strong>
+    <br/>
+    🔗 <a href="https://gilanadvisor.com/">gilanadvisor.com</a>
+  </li>
+</ul>
 
 ___
 
