@@ -42,9 +42,9 @@ ___
   </li>
 
   <li>
-    📊 <strong>Gilan Advisor</strong>
+    📊 <strong>Gilan Adviser</strong>
     <br/>
-    🔗 <a href="https://gilanadvisor.com/">gilanadvisor.com</a>
+    🔗 <a href="https://gilanadviser.com/">gilanadvisor.com</a>
   </li>
 </ul>
 
