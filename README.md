@@ -26,6 +26,7 @@ Alongside software engineering, I am deeply interested in Artificial Intelligenc
 
 - 🌍 I'm based in Rasht, Iran
 - 🎓 Student at SAMPAD
+- 👨‍🏫 Programming Instructor at Poulstar International Institute
 - 🤝 Open to collaborating on Django, React, and Node.js projects
 - 🧠 Currently learning AI & Machine Learning
 - 🤖 Interested in Robotics and Intelligent Systems
