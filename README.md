@@ -7,7 +7,13 @@
 
 <div align="center">
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/><img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 
 </div>
 
@@ -15,12 +21,17 @@ ___
 
 <h3>😎 &nbsp; About Me :</h3>
 
-FullStack Developer with over 5 Years of professional experience in Django, React and Web Scraping and for 2 Years Im learning Security(🔴 Team).
+Passionate Full-Stack Developer with 5+ years of programming experience, focused on building scalable web applications with Django, React, Node.js, and modern development tools.
 
-- 🌍  I'm based in Rasht
-- 🎓  I'm student of SAMPAD
-- 🤝  I'm open to collaborating on Django based projects
-- 🧠  I'm learning AI
+Alongside software engineering, I am deeply interested in Artificial Intelligence, Robotics, IoT Systems, and Cyber Security.
+
+- 🌍 I'm based in Rasht, Iran
+- 🎓 Student at SAMPAD
+- 🤝 Open to collaborating on Django, React, and Node.js projects
+- 🧠 Currently learning AI & Machine Learning
+- 🤖 Interested in Robotics and Intelligent Systems
+- 📡 Exploring IoT (Internet of Things) technologies
+- 🔴 Learning Cyber Security (Red Team)
 
 ___
 
@@ -29,6 +40,12 @@ ___
 <p>Here are some of the projects I have developed and deployed on real servers:</p>
 
 <ul>
+  <li>
+    🚧 <strong>Loko</strong> (Coming Soon)
+    <br/>
+    🔗 Launching soon...
+  </li>
+
   <li>
     🚀 <strong>Aida Beauty7</strong>
     <br/>
@@ -54,22 +71,38 @@ ___
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+
 - 🌐 &nbsp;
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+
 - 📱 &nbsp;
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+
 - 🛢️ &nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=mongodb)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+
 - ⚙️ &nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
+- 🤖 &nbsp;
+  Robotics
+  • IoT
+  • Artificial Intelligence
+  • Machine Learning
+
 - 📸 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
@@ -90,6 +123,16 @@ ___
   <img src="https://github.com/radman1007/radman1007/blob/main/IMG_5721.jpg" width="500"/>
   
 </div>
+
+___
+
+<h3>🚀 Current Focus :</h3>
+
+- Building scalable web applications with Django & React
+- Learning Artificial Intelligence and Machine Learning
+- Exploring Robotics and IoT Systems
+- Studying Cyber Security (Red Team)
+- Creating SaaS products and startup projects
 
 ___
 
