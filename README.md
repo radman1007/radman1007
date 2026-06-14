@@ -44,7 +44,7 @@ ___
   <li>
     📊 <strong>Gilan Adviser</strong>
     <br/>
-    🔗 <a href="https://gilanadviser.com/">gilanadvisor.com</a>
+    🔗 <a href="https://gilanadviser.com/">gilanadviser.com</a>
   </li>
 </ul>
 
